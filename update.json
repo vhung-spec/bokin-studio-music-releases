@@ -1,0 +1,11 @@
+{
+  "version": "0.10.1",
+  "installer": "BokinStudioMusic-Setup-0.10.1.exe",
+  "url": "https://raw.githubusercontent.com/vhung-spec/bokin-studio-music-releases/main/BokinStudioMusic-Setup-0.10.1.exe",
+  "size": 99136015,
+  "sha256": "c636ff0c0581cfd45b65e4405a5671dde95e2958d65a66b934ceab3fdd2a26c0",
+  "notes": "• Bitrate cố định như Premiere: trong mục Chất lượng, đánh dấu \"Bitrate cố định (VBR 2 pass)\" và nhập số Mbps (mặc định 25) để biết trước dung lượng video (25 Mbps ≈ 11,4 GB mỗi giờ), nét gần như bản gốc ở 4K.\n• Bỏ đánh dấu thì app xuất như trước.",
+  "published": "2026-10-30",
+  "install_code_check": "acd8b2ef6dee7a639c968ceb6d17f177ce0bd5fab1406b5a2f9e0ec24ca4c279",
+  "install_code_chain": []
+}
